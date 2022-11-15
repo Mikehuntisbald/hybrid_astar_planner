@@ -1,0 +1,5 @@
+<library path="lib/libhybrid_astar_planner">
+  <class name="astar_planner/HybridAstarPlanner" type="astar_planner::HybridAstarPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a astar global planner plugin.</description>
+  </class>
+</library>
